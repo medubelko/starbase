@@ -5,6 +5,8 @@
 Starcraft
 =========
 
+!!! TEST
+
 .. list-table::
 
     * - | :ref:`Tutorial <tutorials>`
